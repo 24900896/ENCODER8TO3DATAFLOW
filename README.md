@@ -1,3 +1,7 @@
+**NAME:SANDEEP S**
+
+**REG NO:24900896**
+
 ### ENCODER 8TO3 DATAFLOW Modelling
 
 **AIM:**
@@ -16,7 +20,7 @@ The 8 to 3 line Encoder is also known as Octal to Binary Encoder. In 8 to 3 line
 
 Figure 01  Block Diagram of Encoder 8 * 3
 
-**Truth Table**
+**TRUTH TABLE**
 
 ![image](https://github.com/naavaneetha/ENCODER8TO3DATAFLOW/assets/154305477/35496b14-ae6e-4cd1-9abd-d6736b576575)
 
@@ -34,23 +38,28 @@ Logical circuit of the above expressions is given below:
 
 Figure 02  Encoder 8 * 3
 
-**Procedure**
+**PROCEDURE**
 
-/* write all the steps invloved */
+/* 1.Type the program in Quartus software. 2.Compile and run the program. 3.Generate
+the RTL schematic and save the logic diagram. 4.Create nodes for inputs and outputs to
+generate the timing diagram. 5.For different input combinations generate
+the timing diagram. */
 
 **PROGRAM**
 
-/* Program for Encoder 8 To 3 in Dataflow Modelling and verify its truth table in quartus using Verilog programming. 
-
-Developed by: RegisterNumber:
-*/
+![image](https://github.com/user-attachments/assets/b7c5f6e6-bb8c-47c6-95f4-16089b5af143)
 
 **RTL LOGIC FOR Encoder 8 To 3 in Dataflow Modelling**
 
+![image](https://github.com/user-attachments/assets/a0194fdd-6f71-487c-b25c-100d28e1d3f1)
+
 **TIMING DIGRAMS FOR Encoder 8 To 3 in Dataflow Modelling**
+
+![image](https://github.com/user-attachments/assets/fb7e00c0-96b6-4e69-97ee-6464eefbc903)
 
 **RESULTS**
 
+Thus the Encoder 8 to 3 is designed and the truthtable is verified
 
 
 
